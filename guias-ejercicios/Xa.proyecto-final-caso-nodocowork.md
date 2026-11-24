@@ -1,6 +1,6 @@
 # Proyecto final (Caso A): reservas de espacios de coworking con patrones de diseño y Spring Boot
 
-> **Caso A del curso.** Hay dos casos equivalentes (A: NodoCowork, B: CineAndes). El docente asigna uno a cada grupo; la rúbrica, el método y la entrega son idénticos.
+> **Caso A del curso.**
 
 | | |
 |---|---|
